@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//Decidi fazer com que cada botão fosse um widget com suas características próprias pra facilitar o tratamento, pegar valores, operações, etc
 enum CalculatorButtonKind {
   number,
   utility,
